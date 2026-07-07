@@ -46,3 +46,5 @@ my_goosed_website/
 Created as a personal web development project.
 
 Honk responsibly.
+
+<img src="goose.png">
