@@ -6,7 +6,7 @@ This project is a modern portfolio website built using HTML, CSS, and JavaScript
 
 ## Demo URL
 
-[https://www.xchicken669.github.io](https://xchicken669.github.io/my_goosed_website/)
+https://xchicken669.github.io/my_goosed_website/
 
 ## ✨ Features
 
