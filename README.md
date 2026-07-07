@@ -4,6 +4,10 @@ Welcome to my personal goose-themed website!
 
 This project is a modern portfolio website built using HTML, CSS, and JavaScript. It combines a personal portfolio with a fun goose theme, interactive animations, and a working honk button.
 
+## Demo URL
+
+https://www.xchicken669.github.io
+
 ## ✨ Features
 
 - 🪿 Custom goose-themed design
