@@ -41,6 +41,9 @@ my_goosed_website/
 2. Open `index.html` in your browser.
 3. Enjoy the goose website
 
+## AI usage💻
+I used chatgpt for little bit of assistance when working with JS and CSS in the goose zone section.Not really that much though.
+
 ## 👤 Author
 
 Šimon Váňa
